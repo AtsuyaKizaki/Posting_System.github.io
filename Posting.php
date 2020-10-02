@@ -1,4 +1,4 @@
-?php
+<?php
 
 require_once(__DIR__ . '/config.php');
 $dataFile = 'bbs.dat';
